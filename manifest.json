@@ -1,0 +1,18 @@
+{
+  "name": "firelocks",
+  "description": "firelocks is swaylock inspired extension that allows you to hide your password length in form",
+  "version": "0.1",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "main.js"
+      ],
+	  "css" : ["main.css"],
+      "run_at": "document_end"
+    }
+  ]
+}

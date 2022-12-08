@@ -1,0 +1,21 @@
+.firelocks {
+    /* Size */
+    height: 4rem;
+    width: 4rem;
+    /* Create a curve at the top */
+    border: 6px;
+    border-style: solid;
+    border-color: #d1d5db;
+    border-top-color: #d1d5db;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+.firelocks:hover {
+    border: 8px;
+    /* border-style: double; */
+    border-style: solid;
+    border-color: #c7cbd1;
+    border-top-color: #c7cbd1;
+    border-radius: 50%;
+}
