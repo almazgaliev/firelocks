@@ -9,7 +9,7 @@ firelocks is [swaylock](https://github.com/swaywm/swaylock) inspired extension t
 
 ## Install
 
-This extension is availible on [Firefox Add-ons](https://addons.mozilla.org/ru/firefox/addon/firelocks/)
+This extension is available on [Firefox Add-ons](https://addons.mozilla.org/ru/firefox/addon/firelocks/)
 
 ## Build
 
